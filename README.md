@@ -1,3 +1,8 @@
+### About the game:
+
+The Emoji Game is a game which tests the memory power of an individual. You can try this game [here](https://mrexhilarator.github.io/reactEmojiGame/)
+
+
 ### Refer to the image below:
 
 <details>
