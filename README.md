@@ -2,6 +2,9 @@
 
 This game tests the memory power of an individual. You can try this game [here](https://mrexhilarator.github.io/reactEmojiGame/)
 
+### How to play:
+
+Click on different emoji each time until u click all the emojis present to win. Clicking on the same emoji twice results in failure of the game. 
 
 ### Refer to the image below:
 
